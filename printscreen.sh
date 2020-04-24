@@ -1,6 +1,6 @@
 #!/bin/bash
-# Version: 0.0.5
-# Track change last updated by: Falconi - junho 2017 (v0.0.6)
+# Version: 1.0.0
+# Track change last updated by: X_FOR_ON3 - junho 2019 (v0.0.10)
 
 SCRIPT=`basename ${BASH_SOURCE[0]}`
 
