@@ -1,8 +1,8 @@
 #!/bin/bash
-#Version 8.2 - March 2019
-#Written by Augusto Veiga
-#Edited by Falconi
-#Edited by Weslley
+#Version 9.0 -  JUN 2019
+#Written by AV
+#Edited by LF
+#Edited by WS
 
 bold=$(tput bold)
 
